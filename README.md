@@ -1,4 +1,4 @@
-<h1 align="center">NPS-Next Level Week #04</h1>
+<h1 align="center">NPS-NLW</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -37,6 +37,9 @@ O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele faz
 
 Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da NLW. Aprendemos conceitos sobre o que é um API, como iniciar um projeto utilizando Typescript e Express para gerenciamento das rotas, TypeORM para manipulação dos dados, testes automatizados e envio de e-mail.
 
+## 🔶 Diagrama
+
+<img src="public/diagrama.png" alt="Diagrama da aplicação" />
 
 ## 🚀 Como executar
 
@@ -48,8 +51,8 @@ A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
 ## 📄 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+Feito com ♥ by [Rocketseat](https://rocketseat.com.br/) 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
