@@ -30,7 +30,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
-
+- [Eslint](https://eslint.org/)
+- [Prettier](https://prettier.io/)
+- [YUP](https://github.com/jquense/yup)
 ## 💻 Projeto
 
 O NPS-NLW é uma aplicação que consiste em calcular o NPS da empresa. Nele fazemos o cadastro de usuários, cadastro de pesquisas, envio de e-mail para os usuários responderem as pesquisas de satisfação e com isso podemos realizar o cálculo do NPS.
@@ -47,7 +49,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 - Instale as dependências com `yarn`
 - Inicie o servidor com `yarn dev`
 
-A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
+A aplicação pode ser acessada em `localhost:{PORT}`.
 
 ## 📄 Licença
 
